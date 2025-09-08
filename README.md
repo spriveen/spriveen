@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spriveen" alt="spriveen" /></a> </p>
 
-- 🔭 I’m currently working on *DONEXT*
+- 🔭 I’m currently working on *Rjida Holdings*
 
 - 🌱 I’m currently learning **React**
 
