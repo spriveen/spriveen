@@ -1,113 +1,115 @@
-<!-- Animated Heading -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  Hello, I'm <span style="color:#00BFFF;">Riveen Peanuka</span> 👨‍💻
-</h1>
+<div align="center">
 
-<h3 align="center">
-  A Passionate Full-Stack Developer from Sri Lanka 🇱🇰
-</h3>
+<!-- Wave + Name -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
+
+# Hi, I'm **Riveen Peanuka** 👨‍💻
+
+### A Passionate Full-Stack Developer from Sri Lanka 🇱🇰
 
 <!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+%7C+MEAN+Stack+Engineer;React+%26+Next.js+Lover;Always+Learning+New+Things!&color=00C2FF" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=480&lines=Full+Stack+Developer;MERN+%7C+MEAN+Stack+Engineer;React+%26+Next.js+Lover;Always+Learning+New+Things!&color=00C2FF&background=0D111700)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <!-- Profile Views -->
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=spriveen&label=Profile%20views&color=ff69b4&style=for-the-badge" 
-    alt="Profile views" 
-  />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=spriveen&label=Profile%20views&color=ff69b4&style=for-the-badge)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Rjida Holdings**
-- 🌱 I’m learning **React & Next.js**
-- 💬 Ask me about **MERN | MEAN | HTML | CSS | JS**
-- 📫 Reach me at **rpeanuka@gmail.com**
-- ⚡ Fun fact: **Call me Riviya 😎**
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=spriveen&theme=tokyonight&no-frame=true&margin-w=15" 
-      alt="trophies" 
-    />
-  </a>
-</p>
+| | |
+|---|---|
+| 🔭 **Working On** | Rjida Holdings |
+| 🌱 **Learning** | React & Next.js |
+| 💬 **Ask Me About** | MERN · MEAN · HTML · CSS · JS |
+| 📫 **Email** | rpeanuka@gmail.com |
+| ⚡ **Fun Fact** | Call me Riviya 😎 |
+| 🌍 **Location** | Sri Lanka 🇱🇰 |
 
 ---
 
-### 💫 Holopin Badges
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=spriveen&theme=tokyonight&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💫 Holopin Badges
+
+<div align="center">
 
 [![@spriveen's Holopin board](https://holopin.me/spriveen)](https://holopin.io/@spriveen)
 
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,html,css,tailwind,bootstrap,mongodb,java,php,mysql,laravel,figma,docker,git&theme=light" 
-  />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+## 💻 Tech Stack
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=spriveen&show_icons=true&theme=radical" 
-    height="165"
-  >
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=spriveen&theme=radical" 
-    height="165"
-  >
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spriveen&layout=compact&theme=tokyonight" 
-  />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,html,css,tailwind,bootstrap,mongodb,java,php,mysql,laravel,figma,docker,git&theme=dark&perline=9)
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats & Streaks
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/riveen/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+<div align="center">
 
-  <a href="https://www.instagram.com/riviya/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=spriveen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spriveen&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
 
-  <a href="mailto:rpeanuka@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+<br/>
 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spriveen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Riveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spriveen&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riveen/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riviya/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpeanuka@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/spriveen)
+
+</div>
+
+---
+
+<div align="center">
+
+*Crafted with ❤️ by Riveen Peanuka*
+
+</div>
