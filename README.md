@@ -1,10 +1,26 @@
-<!-- Animated Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Riveen+Peanuka+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
-<h3 align="center">
-  💻 Full-Stack Developer &nbsp;|&nbsp; 🇱🇰 Sri Lanka &nbsp;|&nbsp; 🚀 Building the Future
-</h3>
+<!-- HEADER START -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00C2FF,100:0077B5&height=200&section=header&text=Riveen%20Peanuka&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=60&stroke=00C2FF&strokeWidth=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00C2FF&center=true&vCenter=true&random=false&width=600&height=50&lines=🚀+Full-Stack+Developer;⚡+MERN+%7C+MEAN+Stack+Engineer;💡+React+%26+Next.js+Enthusiast;🌍+Building+from+Sri+Lanka+🇱🇰;✨+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-0D1117?style=for-the-badge&logo=stackshare&logoColor=00C2FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-MERN%20Stack-0D1117?style=for-the-badge&logo=mongodb&logoColor=00C2FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-0D1117?style=for-the-badge&logo=github&logoColor=00ff88" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spriveen&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/spriveen?label=Followers&style=for-the-badge&color=0077B5&labelColor=0D1117" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:0077B5&height=3&section=header" />
+<!-- HEADER END -->
 
 <!-- Animated Banner -->
 <p align="center">
